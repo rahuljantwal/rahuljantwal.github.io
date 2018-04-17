@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Rahul Jantwal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate Student at The University of Chicago. Worked for 5 years in Analytics consulting and Marketing Analytics for financial institutions. Current area of focus Natural Language Understanding and Speech Recognition."
+  bio              : "Chandler Bing was the first Data Scientist"
   location         : "Chicago, IL"
   email            : "rahuljantwal@uchicago.edu"
   uri              :
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rahuljantwal"
+  github           : "rahuljantwal"
   gitlab           :
   google_plus      :
   keybase          :
