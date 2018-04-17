@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Rahul Jantwal"
-  avatar           : "/images/avatar.jpg"
+  avatar           : "/images/avatar.jpeg"
   bio              : "Chandler Bing was the first Data Scientist"
   location         : "Chicago, IL"
   email            : "rahuljantwal@uchicago.edu"
