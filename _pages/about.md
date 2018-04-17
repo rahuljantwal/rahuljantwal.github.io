@@ -5,9 +5,10 @@ permalink: /about/
 author_profile: true
 header:
    image: "/images/header.jpg"
+   cta_label: "More Info" 
 ---
 
-I'm a data scien
+I am a graduate student at The University of Chicago.
 
 {% include base_path %} 
 {% include group-by-array collection=site.posts field="tags" %}
