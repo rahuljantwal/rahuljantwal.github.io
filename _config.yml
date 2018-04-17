@@ -274,7 +274,7 @@ defaults:
         cta_label: "More Info"
         cta_url: "https://unsplash.com"
 
-#pages
+  # _pages
   - scope:
       path: ""
       type: posts
@@ -282,3 +282,10 @@ defaults:
       layout: splash
       author_profile: true
       read_time: true
+      excerpt: "This post should [...]"
+      header:
+        overlay_image: /images/avatar.jpeg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+        cta_label: "More Info"
+        cta_url: "https://unsplash.com"
